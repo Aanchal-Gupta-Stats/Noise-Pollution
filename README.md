@@ -2,7 +2,7 @@
 Project aims at studying the level of general awareness on noise pollution amongst 
 college students and analyze the major sources and effects of noise pollution.
 
-# About Project
+## About Project
 Project was conducted in Ram Lal Anand College, University of Delhi 
 Between 20th March and 23rd April (2019). 
 
